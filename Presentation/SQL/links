@@ -1,0 +1,9 @@
+1. All Data: https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sfinal-project-da-481119!2sus-central1!3sb4a5246f-9b33-43da-b9bb-6b38c51264e2!2e1
+
+2. Event_name = 'session_start' + funnel_steps: https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sfinal-project-da-481119!2sus-central1!3se04e923d-8c3f-42c9-b0c0-18622a0d3643!2e1
+
+3. session_aggregation: https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sfinal-project-da-481119!2sus-central1!3s9a79850c-e314-45d3-80d0-3847c113da0d!2e1
+
+-- Purpose: Aggregate GA4 events to session level
+-- Output: One row per session with funnel step indicators
+-- Author: Khrystyna Derkach
